@@ -1,7 +1,4 @@
-<h1 align="center" style="color:#2F3A3D;">🌸 Yana Lerner</h1>
-<h3 align="center" style="color:#2F3A3D;">Pharmacist · M.Sc. · Ph.D. Candidate | Weizmann Institute of Science</h3>
 
----
 
 ## 👩‍🔬 About Me
 
