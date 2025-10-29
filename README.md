@@ -24,9 +24,9 @@ I am passionate about understanding how viruses rewire host cell pathways and tr
 
 ## Research Focus
 
--  **Host–virus interactions **and intrinsic antiviral mechanisms
+-  Host–virus interactions and intrinsic antiviral mechanisms
   
--  **The CIA complex **(Cytosolic Iron–Sulfur Assembly) and Fe–S biogenesis
+-  The CIA complex (Cytosolic Iron–Sulfur Assembly) and Fe–S biogenesis
   
 -  Nuclear–cytosolic trafficking and exportins (XPO1)
   
