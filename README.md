@@ -48,7 +48,6 @@ I am passionate about understanding how viruses rewire host cell pathways and tr
   </a>
 </p>
 
-##WINDOWS.
 
 
 ---
