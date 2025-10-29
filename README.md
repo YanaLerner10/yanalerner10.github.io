@@ -1,10 +1,9 @@
 
-
 ## 👩‍🔬 About Me
 
 I am a **pharmacist and M.Sc. graduate**, currently pursuing my **Ph.D. at the Weizmann Institute of Science** (Laufman Lab).  
 
-My research investigates how **enteroviruses**—such as *Coxsackievirus B3*—interact with host cellular machineries,  
+My research investigates how **enteroviruses** such as *Coxsackievirus B3*, interact with host cellular machineries,  
 with a focus on the **Cytosolic Iron–Sulfur Assembly (CIA) complex** and **nuclear transport systems**.
 
 I am passionate about understanding how viruses rewire host cell pathways and translating complex molecular data into clear biological insights.
@@ -13,11 +12,11 @@ I am passionate about understanding how viruses rewire host cell pathways and tr
 
 ## 🎓 Education
 
-- 🎓 **Ph.D. Candidate, Molecular Genetics** — *Weizmann Institute of Science*
+- 🎓 **Ph.D. Candidate, Molecular Genetics** - *Weizmann Institute of Science*
   
-- 🎓 **M.Sc. in Medical Sciences** — *The Azrieli Faculty of Medicine, Bar-Ilan University, Safed*
+- 🎓 **M.Sc. in Medical Sciences** - *The Azrieli Faculty of Medicine, Bar-Ilan University, Safed*
   
-- 💊 **B.Pharm (Bachelor of Pharmacy)** — *Ben-Gurion University of the Negev*  
+- 💊 **B.Pharm (Bachelor of Pharmacy)** - *Ben-Gurion University of the Negev*  
 
 ---
 
