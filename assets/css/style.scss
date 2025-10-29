@@ -1,5 +1,6 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@600;700&display=swap');
 
 /* Import your theme’s default styling */
 @import "{{ site.theme }}";
@@ -18,7 +19,7 @@
 body {
   background-color: var(--bg);
   color: var(--ink);
-  font-family: "Inter", "Helvetica Neue", sans-serif;
+  font-family: "Inter", "sans serif" "Times new roman";
 }
 
 /* Headings */
