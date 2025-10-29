@@ -1,113 +1,57 @@
 ---
 ---
 
-/* Import the default Jekyll theme */
+/* Import your theme’s default styling */
 @import "{{ site.theme }}";
 
-/* =========================================
-   🌸  Custom Pastel Theme — Yana Lerner
-   Background: #FAF7F5
-   Primary:    #C3636D
-   Secondary:  #F8C8DC
-   Highlight:  #FFF2CC
-   Text:       #2F3A3D
-   ========================================= */
-
+/* 🌸 Pastel customizations (soft sage, blush, and cream) */
 :root {
   --bg:        #FAF7F5;   /* soft beige background */
-  --ink:       #2F3A3D;   /* charcoal text */
-  --primary:   #A8D8C9;   /* pastel green */
-  --secondary: #C3636D;   /* muted rose */
-  --highlight: #FFF2CC;   /* pale yellow highlight */
+  --ink:       #2F3A3D;   /* dark charcoal text */
+  --accent:    #c3636d;   /* pastel sage green */
+  --accent-2:  #F8C8DC;   /* light blush pink */
+  --accent-3:  #FFF2CC;   /* pale cream yellow */
+  --link:      #7CB8B1;   /* muted teal links */
 }
 
-/* Global page */
+/* Global page colors */
 body {
   background-color: var(--bg);
   color: var(--ink);
-  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
+  font-family: "Inter", "Helvetica Neue", sans-serif;
 }
 
 /* Headings */
-h1, h2, h3, h4 {
+h1, h2, h3 {
   color: var(--ink);
   font-family: "Playfair Display", Georgia, serif;
-  letter-spacing: 0.3px;
 }
 
-/* Header banner (Cayman, Slate, etc.) */
+/* Header banner (for Cayman, Slate, etc.) */
 .page-header {
-  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
   color: #fff;
-  padding: 3rem 1rem;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-/* Title + tagline */
-.project-name {
-  font-family: "Playfair Display", serif;
-  font-size: 2.2rem;
-  font-weight: 700;
+/* Buttons, links */
+a, .btn {
+  color: var(--link);
 }
-.project-tagline {
-  color: rgba(255,255,255,0.9);
+a:hover, .btn:hover {
+  color: var(--accent);
+  text-decoration: none;
 }
 
-/* Main content card */
+/* Content cards */
 .main-content {
   background: #fff;
-  border-radius: 20px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-  padding: 2rem 2.5rem;
-  margin-top: -2rem;
-  border: 1px solid rgba(0,0,0,0.05);
-}
-
-/* Links */
-a {
-  color: var(--primary);
-  text-decoration: none;
-  transition: 0.2s ease;
-}
-a:hover {
-  color: var(--secondary);
-  text-decoration: underline;
-}
-
-/* Buttons */
-.btn, .site-footer .btn {
-  background: var(--primary);
-  color: #fff;
-  border-radius: 999px;
-  padding: 10px 18px;
-  border: none;
-  font-weight: 600;
-  transition: background 0.2s ease;
-}
-.btn:hover {
-  background: var(--secondary);
-  color: var(--ink);
-}
-
-/* Code blocks / quotes */
-pre, code {
-  background: var(--highlight);
-  border-radius: 8px;
-  padding: 4px 6px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  padding: 2rem;
 }
 
 /* Footer */
 .site-footer {
-  background: var(--highlight);
-  border-top: 1px solid rgba(0,0,0,0.08);
-  color: var(--ink);
-  padding: 1.5rem 1rem;
-}
-
-/* Mobile adjustments */
-@media (max-width: 640px) {
-  .main-content {
-    padding: 1.5rem 1rem;
-  }
+  background: var(--accent-3);
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
 }
