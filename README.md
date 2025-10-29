@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2F3A3D;"> Yana Lerner</h1>
 <h3 align="center" style="color:#2F3A3D;">Pharmacist · M.Sc. · Ph.D. Candidate | Weizmann Institute of Science</h3>
 
-## 👩‍🔬 About Me
+## About Me
 
 I am a **pharmacist and M.Sc. graduate**, currently pursuing my **Ph.D. at the Weizmann Institute of Science** (Laufman Lab).  
 
@@ -12,31 +12,31 @@ I am passionate about understanding how viruses rewire host cell pathways and tr
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🎓 **Ph.D. Candidate, Molecular Genetics** - *Weizmann Institute of Science*
+-  **Ph.D. Candidate, Molecular Genetics** - *Weizmann Institute of Science*
   
-- 🎓 **M.Sc. in Medical Sciences** - *The Azrieli Faculty of Medicine, Bar-Ilan University, Safed*
+-  **M.Sc. in Medical Sciences** - *The Azrieli Faculty of Medicine, Bar-Ilan University, Safed*
   
-- 💊 **B.Pharm (Bachelor of Pharmacy)** - *Ben-Gurion University of the Negev*  
-
----
-
-## 🧬 Research Focus
-
-- 🦠 Host–virus interactions and intrinsic antiviral mechanisms
-  
-- ⚙️ The CIA complex (Cytosolic Iron–Sulfur Assembly) and Fe–S biogenesis
-  
-- 🚀 Nuclear–cytosolic trafficking and exportins (XPO1)
-  
-- 🔬 Virology, proteomics, and advanced imaging
-  
-- 📊 Quantitative analysis (GraphPad Prism, R, Excel)  
+-  **B.Pharm (Bachelor of Pharmacy)** - *Ben-Gurion University of the Negev*  
 
 ---
 
-## 🌍 Connect with Me
+## Research Focus
+
+-  Host–virus interactions and intrinsic antiviral mechanisms
+  
+-  The CIA complex (Cytosolic Iron–Sulfur Assembly) and Fe–S biogenesis
+  
+-  Nuclear–cytosolic trafficking and exportins (XPO1)
+  
+-  Virology, proteomics, and advanced imaging
+  
+-  Quantitative analysis (GraphPad Prism, R, Excel)  
+
+---
+
+##  Connect with Me
 
 <p align="center">
   <a href="mailto:yana.lerner@weizmann.ac.il">
